@@ -1,0 +1,3 @@
+[submodule "contract-deploy-demo/lib/openzeppelin-contracts"]
+	path = contract-deploy-demo/lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
