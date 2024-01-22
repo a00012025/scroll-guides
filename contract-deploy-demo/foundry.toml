@@ -6,7 +6,8 @@ optimizer_runs = 1000000
 remappings = [
   "solmate/=lib/solmate/src/",
   "forge-std/=lib/forge-std/src/",
-  "@opensezppling/=lib/openzeppelin-contracts/"
+  "@opensezppling/=lib/openzeppelin-contracts/",
+  "@scroll-tech/contracts@0.1.0/=node_modules/@scroll-tech/contracts/"
 ]
 verbosity = 1
 evm_version = "london"

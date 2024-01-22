@@ -34,6 +34,7 @@
     "typescript": ">=4.5.0"
   },
   "dependencies": {
+    "@scroll-tech/contracts": "0.1.0",
     "install": "^0.13.0"
   }
 }
